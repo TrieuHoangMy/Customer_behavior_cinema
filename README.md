@@ -1,2 +1,4 @@
 # Customer_behavior_cinema
-Bai cuoi ky
+** Project title:
+Nang cao kha nang quay lai cua khach hang tai rap phim
+
