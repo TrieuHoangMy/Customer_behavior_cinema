@@ -33,3 +33,28 @@ Bộ dữ liệu này ghi lại thông tin chi tiết về doanh số bán vé v
 - Purchase_Again: Biến mục tiêu nhị phân cho biết liệu khách hàng có khả năng quay lại và mua vé khác hay không. Biến này có hai giá trị khả thi:
     - Yes
     - No
+
+## 4. Tools and Technologies:
+- googlesheet
+- python: pandas, numpy,
+- PowerBi
+
+## 5. Key insight discovered:
+- Nhóm tuổi (45-60) có mức chi tiêu lớn nhất.
+- Mỗi nhóm lứa tuổi có thể loại phim ưa thích khác nhau.
+- Giá vé trung bình giữa các hạng ghế không chênh lệch quá cao.
+- Giá vé giữa các thể loại có sự khác nhau.
+- Tỉ lệ không mua lại cao hơn 50%.
+
+## 6. Hypotheses based on analysis results:
+- Khách hàng có độ tuổi càng cao càng có chi tiêu nhiều hơn.
+- Khách hàng mua vé dựa vào thể loại phim ưa thích.
+- Khách hàng có nhu cầu trải nghiệm dịch vụ tốt tại rạp phim, nhưng với mức chi tiêu hợp lý.
+
+## 7. Recommendations based on analysis results:
+- Tăng suất chiếu các thể loại được ưa thích.
+- Sắp xếp các rạp chiếu lớn, với lượng hạng ghế tốt, chất lượng âm thanh hình ảnh cao cho các thể loại được yêu thích.
+- Cân bằng suất chiếu và giá vé nhóm cho đối tượng khách hàng (18-24) đối với thể loại Sci-fi. Nhằm nuôi dưỡng thói quen xem phim lâu dài.
+- Giảm suất chiếu thể loại Comedy (vì khó giữ chân khách).
+- Đưa ra các ưu đã nâng hạng ghế phù hợp từng nhóm lứa tuổi.
+- Thực hiện chương trình tích điểm lâu dài, để giữ chân khách hàng lớn tuổi.
