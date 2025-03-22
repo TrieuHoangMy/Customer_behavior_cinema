@@ -26,9 +26,9 @@ Bộ dữ liệu này ghi lại thông tin chi tiết về doanh số bán vé v
 - Ticket_Price: Giá mà khách hàng phải trả cho vé, thường dao động từ 10 đến 25 đô la
 - Movie_Genre: Thể loại phim mà khách hàng đã xem, có thể bao gồm một trong các thể loại sau: Action, Comedy, Horror, Drama, or Sci-Fi.
 - Seat_Type: Loại ghế do khách hàng lựa chọn, có ba loại theo thứ tự:
-- Standard 
-- Premium 
-- VIP 
+    - Standard 
+    - Premium 
+    - VIP 
 - Number_of_Person: Số lượng người đi cùng khách hàng.
 - Purchase_Again: Biến mục tiêu nhị phân cho biết liệu khách hàng có khả năng quay lại và mua vé khác hay không. Biến này có hai giá trị khả thi:
     - Yes
