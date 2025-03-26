@@ -36,7 +36,7 @@ Bộ dữ liệu này ghi lại thông tin chi tiết về doanh số bán vé v
 
 ## 4. Tools and Technologies:
 - googlesheet
-- python: pandas, numpy,
+- python: pandas, numpy..vv..
 - PowerBi
 
 ## 5. Key insight discovered:
